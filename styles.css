@@ -1,0 +1,68 @@
+body {
+
+    color: black;
+    background: gray;
+    margin: 0px;
+   
+
+}
+
+header {
+    border-bottom: solid 2px rgb(115 57 57);
+
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(115 57 57);
+}
+
+.FILLMMES{
+    background: rgb(92, 60, 34);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.Chamada-texto {
+    margin-right: 5%; 
+    font-family: "Oswald", sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    height: 200px;
+}
+
+.Categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.Categoria-videos {
+    opacity: O.5;
+  
+
+}
+
+
+.categoria-videos img:hover {
+ 
+    border: solid 1px black;
+    opacity: 1.0;
+}
+
+
+body {
+    color: black;
+    background:  gray;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
